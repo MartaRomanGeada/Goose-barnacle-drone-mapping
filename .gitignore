@@ -1,0 +1,23 @@
+# R history and session files
+.Rhistory
+.RData
+.Ruserdata
+
+# RStudio settings
+.Rproj.user/
+
+# Temporary files
+*.tmp
+
+# macOS
+.DS_Store
+
+# Large data files (optional)
+*.tif
+*.las
+*.laz
+*.zip
+
+# Outputs
+plots/
+outputs/
